@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'blaze-to-react',
+  name: 'phantom0610:blaze-to-react',
   version: '0.0.1',
   summary: 'A simple package to convert blaze to react',
   git: 'https://github.com/ptuanvu/meteor-blaze-to-react.git',
